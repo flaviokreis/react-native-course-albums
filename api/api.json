@@ -2,7 +2,7 @@
 	"title": "Use your illusion 1",
 	"artist": "Gun's n Roses",
 	"url": "https://www.amazon.com/Use-Your-Illusion-Guns-Roses/dp/B000VBJ504",
-	"image": "https://github.com/flaviokreis/react-native-course-albums/illusion_1.jpeg",
+	"image": "https://raw.githubusercontent.com/flaviokreis/react-native-course-albums/master/api/illusion_1.jpeg",
 	"thumbnail_image": "https://raw.githubusercontent.com/flaviokreis/react-native-course-albums/master/api/band.jpg"
 }, {
 	"title": "Use your illusion 2",
