@@ -1,0 +1,31 @@
+[{
+	"title": "Use your illusion 1",
+	"artist": "Gun's n Roses",
+	"url": "https://www.amazon.com/Use-Your-Illusion-Guns-Roses/dp/B000VBJ504",
+	"image": "https://github.com/flaviokreis/react-native-course-albums/illusion_1.jpeg",
+	"thumbnail_image": "https://github.com/flaviokreis/react-native-course-albums/api/band.jpg"
+}, {
+	"title": "Use your illusion 2",
+	"artist": "Gun's n Roses",
+	"url": "https://www.amazon.com/Use-Your-Illusion-II-Explicit/dp/B018V7FABC",
+	"image": "https://github.com/flaviokreis/react-native-course-albums/api/illusion_2.jpeg",
+	"thumbnail_image": "https://github.com/flaviokreis/react-native-course-albums/api/band.jpg"
+}, {
+	"title": "Greatest Hits",
+	"artist": "Gun's n Roses",
+	"url": "https://www.amazon.com/Greatest-Hits-Guns-N-Roses/dp/B000YMJA7I",
+	"image": "https://github.com/flaviokreis/react-native-course-albums/api/greatest.jpeg",
+	"thumbnail_image": "https://github.com/flaviokreis/react-native-course-albums/api/band.jpg"
+}, {
+	"title": "Live Era 87-93",
+	"artist": "Gun's n Roses",
+	"url": "https://www.amazon.com/Live-Era-87-93-Guns-Roses/dp/B000VGZ4GI",
+	"image": "https://github.com/flaviokreis/react-native-course-albums/api/live_era.jpeg",
+	"thumbnail_image": "https://github.com/flaviokreis/react-native-course-albums/api/band.jpg"
+}, {
+	"title": "Appetite for Destruction",
+	"artist": "Gun's n Roses",
+	"url": "https://www.amazon.com/Appetite-Destruction-Explicit-Guns-Roses/dp/B000V6583C",
+	"image": "https://github.com/flaviokreis/react-native-course-albums/api/appetite.jpeg",
+	"thumbnail_image": "https://github.com/flaviokreis/react-native-course-albums/api/band.jpg"
+}]
