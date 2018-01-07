@@ -14,7 +14,7 @@ export default class AlbumList extends Component {
   }
 
   componentWillMount() {
-    axios.get('https://rallycoding.herokuapp.com/api/music_albums')
+    axios.get('https://raw.githubusercontent.com/flaviokreis/react-native-course-albums/master/api/api.json')
          .then(response => this.setState({
            albums: response.data,
            isLoading: false
