@@ -18,3 +18,11 @@ This project is a exercise about the react native course
 ## Run project
 ```react-native run-android```
 ```react-native run-ios```
+
+## Screenshots
+
+Android Screenshot
+![Android screenshot](https://raw.githubusercontent.com/flaviokreis/react-native-course-albums/master/screenshots/android.png)
+
+iPhone Screenshot
+![iPhone screenshot](https://raw.githubusercontent.com/flaviokreis/react-native-course-albums/master/screenshots/ios.png)
