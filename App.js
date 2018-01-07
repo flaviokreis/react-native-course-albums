@@ -17,6 +17,7 @@ export default class App extends Component<{}> {
 
 const styles = StyleSheet.create({
   base: {
+    flex: 1,
     backgroundColor: '#F5FCFF'
   }
 });
